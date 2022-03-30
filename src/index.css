@@ -1,0 +1,16 @@
+body {
+
+  background-image: url("https://i.pinimg.com/originals/83/5f/93/835f93d67a0c24f0c79e76af46f177a2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:'Times New Roman', Times, serif;
+}
